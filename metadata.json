@@ -1,0 +1,30 @@
+{
+  "name": "deanwilson-time_units",
+  "version": "0.1.0",
+  "author": "deanwilson",
+  "summary": "Puppet function for converting units of time",
+  "license": "Apache-2.0",
+  "source": "https://github.com/deanwilson/puppet-time_units.git",
+  "project_page": "https://github.com/deanwilson/puppet-time_units.git",
+  "issues_url": "https://github.com/deanwilson/puppet-time_units/issues",
+  "description": "Puppet function for converting units of time",
+  "dependencies": [
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat"
+    },
+    {
+      "operatingsystem": "Ubuntu"
+    },
+    {
+      "operatingsystem": "Debian"
+    },
+    {
+      "operatingsystem": "Fedora"
+    },
+    {
+      "operatingsystem": "CentOS"
+    }
+  ]
+}
